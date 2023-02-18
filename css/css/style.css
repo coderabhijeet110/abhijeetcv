@@ -1,0 +1,21 @@
+
+body{
+    background-color:rgb(178, 228, 240);
+  }
+  hr {
+    background-color: rgb(178, 228, 240);
+    height:0px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width : 3%;
+  }
+  h1{
+    color: #66BFBF;
+    font-family: monospace;
+  }
+h2{
+color: #8266bf;
+font-family: cursive;
+}
